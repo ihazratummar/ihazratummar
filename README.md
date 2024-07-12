@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hazrat and I'm learning software development from West bengal</h2>
+<h2 align="left">Hi 👋! My name is Hazrat and I'm learning software development from West Bengal</h2>
 
 ###
 
