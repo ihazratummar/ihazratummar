@@ -1,10 +1,16 @@
 <h2 align="left">Hi 👋! My name is Hazrat and I'm learning software development from West Bengal</h2>
 
+---
+[![](https://visitcount.itsvg.in/api?id=ihazratummar&icon=2&color=0)](https://visitcount.itsvg.in)
+
 ###
 
 <div align="center">
  
-  <img src="https://streak-stats.demolab.com?user=ihazratummar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+![](https://github-readme-stats.vercel.app/api?username=ihazratummar&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ihazratummar&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ihazratummar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ###
 
@@ -28,6 +34,7 @@
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="30" alt="figma logo"  />
 </div>
 
+
 ###
 
 <div align="left">
@@ -42,6 +49,9 @@
   </a>
 </div>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ihazratummar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ###
 
 <br clear="both">
@@ -49,3 +59,6 @@
 <img src="https://raw.githubusercontent.com/ihazratummar/ihazratummar/output/snake.svg" alt="Snake animation" />
 
 ###
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ihazratummar&limit=5&theme=dark&combine_all_yearly_contributions=true)
