@@ -129,21 +129,10 @@ object HazratUmmar {
 
 ## `git log --snake`
 
-<div align="center">
-
-<img src="assets/matrix-rain.svg" alt="Kotlin matrix rain" width="100%"/>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ihazratummar/ihazratummar/refs/heads/main/assets/matrix-rain.svg" />
-
-</picture>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ihazratummar/ihazratummar/output/snake.svg" alt="Snake animation" />
-
+<div style="position: relative;">
+  <img src="assets/matrix-rain.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ihazratummar/ihazratummar/output/snake-dark.svg" 
+       style="position:absolute; top:0; left:0; width:100%; opacity:0.8"/>
 </div>
 
 </div>
