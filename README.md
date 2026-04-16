@@ -136,7 +136,8 @@ object HazratUmmar {
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ihazratummar/ihazratummar/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ihazratummar/ihazratummar/refs/heads/main/assets/matrix-rain.svg" />
+
 </picture>
 
 <div align="center">
