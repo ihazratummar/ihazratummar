@@ -42,6 +42,14 @@ object HazratUmmar {
 </div>
 
 ---
+## `service.task()`
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D9E75&width=435&lines=Android+Apps+With+Backend+and+Auth;Scalable+Discord+server+and+discord+bot+;Automation+with+python;Backend+API)](https://www.fiverr.com/hazratummar)
+
+</div>
+
+---
 
 ## `git log --stats`
 
