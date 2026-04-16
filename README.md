@@ -137,9 +137,13 @@ object HazratUmmar {
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ihazratummar/ihazratummar/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ihazratummar/ihazratummar/output/snake-light.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/ihazratummar/ihazratummar/output/snake-dark.svg" />
 </picture>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ihazratummar/ihazratummar/output/snake.svg" alt="Snake animation" />
+
+</div>
 
 </div>
 
