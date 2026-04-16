@@ -20,9 +20,9 @@ object HazratUmmar {
     val name        = "Hazrat Ummar"
     val username    = "ihazratummar"
     val location    = "West Bengal, India 🇮🇳"
-    val role        = "Android Apps | Backend | Discord bot developer"
+    val role        = "Android app | Backend | Discord Bot Developer"
     val focus       = listOf("Kotlin", "Jetpack Compose", "Clean Architecture")
-    val currentlyWorking = "Kotlin Multiplatform + AI integrations"
+    val currentlyWorking = "Kotlin Multiplatform + AI integrations | Discord Bots"
     val openToWork  = true
 
     fun greet() = "Hey! Thanks for visiting my profile 👋"
@@ -82,10 +82,34 @@ object HazratUmmar {
 ## `ls ./projects`
 
 <div align="center">
-
-[![android-clean-arch](https://github-readme-stats.vercel.app/api/pin/?username=ihazratummar&repo=OnlineShop&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=1D9E75&text_color=a0aec0&icon_color=7F52FF)](https://github.com/ihazratummar)
-[![compose-ui](https://github-readme-stats.vercel.app/api/pin/?username=ihazratummar&repo=Wanimation&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=1D9E75&text_color=a0aec0&icon_color=7F52FF)](https://github.com/ihazratummar)
-
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/ihazratummar/OneDrop-Backend">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihazratummar&repo=OneDrop-Backend&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=1D9E75&text_color=a0aec0&icon_color=7F52FF" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/ihazratummar/Nexa">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihazratummar&repo=Nexa&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=1D9E75&text_color=a0aec0&icon_color=7F52FF" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <!-- Add repo 3 here: change repo=REPO_NAME and href -->
+      <a href="https://github.com/ihazratummar">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihazratummar&repo=Islam24&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=1D9E75&text_color=a0aec0&icon_color=7F52FF" />
+      </a>
+    </td>
+    <td>
+      <!-- Add repo 4 here: change repo=REPO_NAME and href -->
+      <a href="https://github.com/ihazratummar">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihazratummar&repo=Artbattler&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=1D9E75&text_color=a0aec0&icon_color=7F52FF" />
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
@@ -94,7 +118,7 @@ object HazratUmmar {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ihazratummar&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=ihazratummar&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=4" />
 
 </div>
 
@@ -129,6 +153,6 @@ object HazratUmmar {
 ```
 [![](https://visitcount.itsvg.in/api?id=ihazratummar&icon=5&color=6)](https://visitcount.itsvg.in)
 
-<sub>Built with 💚 from West Bengal · Last updated 2026</sub>
+<sub>Built with 💚 from West Bengal · Last updated 2025</sub>
 
 </div>
