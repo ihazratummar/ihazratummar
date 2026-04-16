@@ -1,13 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════╗
-║           HAZRAT UMMAR  ·  SOFTWARE DEVELOPER     ║
-╚═══════════════════════════════════════════════════╝
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Android+Developer+%7C+Kotlin+%26+Jetpack+Compose;Building+clean%2C+scalable+mobile+apps;Open+to+work+%F0%9F%9A%80;From+West+Bengal%2C+India)](https://git.io/typing-svg)
+<img src="assets/header.svg" alt="Hazrat Ummar — Android Developer" width="100%"/>
 
 </div>
 
@@ -20,9 +14,9 @@ object HazratUmmar {
     val name        = "Hazrat Ummar"
     val username    = "ihazratummar"
     val location    = "West Bengal, India 🇮🇳"
-    val role        = "Android app | Backend | Discord Bot Developer"
-    val focus       = listOf("Kotlin", "Jetpack Compose", "Clean Architecture")
-    val currentlyWorking = "Kotlin Multiplatform + AI integrations | Discord Bots"
+    val role        = "Android Apps | Backend | Discord Bot Developer"
+    val focus       = listOf("Kotlin", "Jetpack Compose", "Clean Architecture", Discord.py, KPM)
+    val currentlyWorking = "Kotlin Multiplatform + AI integrations | Discord Bot"
     val openToWork  = true
 
     fun greet() = "Hey! Thanks for visiting my profile 👋"
@@ -35,10 +29,7 @@ object HazratUmmar {
 
 <div align="center">
 
-### Languages & Frameworks
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+<img src="assets/skills.svg" alt="Skill levels" width="100%"/>
 
 ### Tools & Environment
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
@@ -105,7 +96,7 @@ object HazratUmmar {
     <td>
       <!-- Add repo 4 here: change repo=REPO_NAME and href -->
       <a href="https://github.com/ihazratummar">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihazratummar&repo=Artbattler&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=1D9E75&text_color=a0aec0&icon_color=7F52FF" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihazratummar&repo=OneDrop-Backend&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=1D9E75&text_color=a0aec0&icon_color=7F52FF" />
       </a>
     </td>
   </tr>
@@ -140,7 +131,15 @@ object HazratUmmar {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ihazratummar/ihazratummar/output/snake.svg" alt="Snake animation" />
+<img src="assets/matrix-rain.svg" alt="Kotlin matrix rain" width="100%"/>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ihazratummar/ihazratummar/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ihazratummar/ihazratummar/output/snake-light.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/ihazratummar/ihazratummar/output/snake-dark.svg" />
+</picture>
 
 </div>
 

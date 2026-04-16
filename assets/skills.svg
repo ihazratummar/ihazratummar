@@ -1,0 +1,57 @@
+<svg width="100%" viewBox="0 0 680 168" xmlns="http://www.w3.org/2000/svg">
+  <defs><style>.m{font-family:'Courier New',Courier,monospace}</style></defs>
+
+  <rect width="680" height="168" fill="#0d1117" rx="8"/>
+  <text x="24" y="24" class="m" font-size="10" fill="#484f58">// skill_matrix.kt — proficiency levels</text>
+
+  <!-- Kotlin -->
+  <text x="24" y="50" class="m" font-size="12" fill="#e6edf3">Kotlin</text>
+  <text x="96" y="50" class="m" font-size="12" fill="#484f58">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</text>
+  <rect x="96" y="40" width="540" height="10" fill="#161b22" rx="2"/>
+  <rect x="96" y="40" width="0" height="10" fill="#1D9E75" rx="2">
+    <animate attributeName="width" from="0" to="486" dur="1.2s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <text x="646" y="50" class="m" font-size="11" fill="#1D9E75" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.1s" begin="1.3s" fill="freeze"/>90%
+  </text>
+
+  <!-- Jetpack Compose -->
+  <text x="24" y="80" class="m" font-size="12" fill="#e6edf3">Compose</text>
+  <rect x="96" y="70" width="540" height="10" fill="#161b22" rx="2"/>
+  <rect x="96" y="70" width="0" height="10" fill="#7F52FF" rx="2">
+    <animate attributeName="width" from="0" to="432" dur="1.2s" begin="0.4s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <text x="646" y="80" class="m" font-size="11" fill="#7F52FF" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.1s" begin="1.5s" fill="freeze"/>80%
+  </text>
+
+  <!-- Python -->
+  <text x="24" y="110" class="m" font-size="12" fill="#e6edf3">Python</text>
+  <rect x="96" y="100" width="540" height="10" fill="#161b22" rx="2"/>
+  <rect x="96" y="100" width="0" height="10" fill="#3776AB" rx="2">
+    <animate attributeName="width" from="0" to="378" dur="1.2s" begin="0.6s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <text x="646" y="110" class="m" font-size="11" fill="#3776AB" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.1s" begin="1.7s" fill="freeze"/>70%
+  </text>
+
+  <!-- Figma -->
+  <text x="24" y="140" class="m" font-size="12" fill="#e6edf3">Figma</text>
+  <rect x="96" y="130" width="540" height="10" fill="#161b22" rx="2"/>
+  <rect x="96" y="130" width="0" height="10" fill="#F24E1E" rx="2">
+    <animate attributeName="width" from="0" to="324" dur="1.2s" begin="0.8s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <text x="646" y="140" class="m" font-size="11" fill="#F24E1E" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.1s" begin="1.9s" fill="freeze"/>60%
+  </text>
+
+  <!-- Linux -->
+  <text x="24" y="162" class="m" font-size="12" fill="#e6edf3">Linux</text>
+  <rect x="96" y="152" width="540" height="10" fill="#161b22" rx="2"/>
+  <rect x="96" y="152" width="0" height="10" fill="#FCC624" rx="2">
+    <animate attributeName="width" from="0" to="405" dur="1.2s" begin="1.0s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <text x="646" y="162" class="m" font-size="11" fill="#FCC624" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.1s" begin="2.1s" fill="freeze"/>75%
+  </text>
+</svg>

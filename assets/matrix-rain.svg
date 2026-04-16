@@ -1,0 +1,71 @@
+<svg width="100%" viewBox="0 0 680 120" xmlns="http://www.w3.org/2000/svg">
+  <defs><style>.m{font-family:'Courier New',Courier,monospace;font-size:13px}</style></defs>
+  <rect width="680" height="120" fill="#0d1117" rx="8"/>
+
+  <!-- glowing name in center -->
+  <text x="340" y="52" text-anchor="middle" font-family="Courier New,monospace" font-size="22" fill="#1D9E75" font-weight="700" letter-spacing="6" opacity="0">
+    <animate attributeName="opacity" values="0;0.3;1;0.3;1" dur="3s" begin="0.8s" repeatCount="indefinite"/>
+    HAZRAT
+  </text>
+  <text x="340" y="72" text-anchor="middle" font-family="Courier New,monospace" font-size="11" fill="#0F6E56" letter-spacing="10" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.5;1;0.5" dur="3s" begin="1.0s" repeatCount="indefinite"/>
+    UMMAR
+  </text>
+  <text x="340" y="94" text-anchor="middle" font-family="Courier New,monospace" font-size="9" fill="#085041" letter-spacing="2" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;0;1" dur="3s" begin="1.3s" repeatCount="indefinite"/>
+    android developer  |  kotlin  |  west bengal
+  </text>
+
+  <!-- LEFT falling columns -->
+  <text class="m" x="14" fill="#27c93f" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.4s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="1.4s" begin="0.0s" repeatCount="indefinite"/>v</text>
+  <text class="m" x="14" fill="#1D9E75" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.4s" begin="0.3s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="1.4s" begin="0.3s" repeatCount="indefinite"/>a</text>
+  <text class="m" x="14" fill="#085041" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.4s" begin="0.6s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="1.4s" begin="0.6s" repeatCount="indefinite"/>l</text>
+
+  <text class="m" x="40" fill="#27c93f" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.8s" begin="0.2s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="1.8s" begin="0.2s" repeatCount="indefinite"/>f</text>
+  <text class="m" x="40" fill="#1D9E75" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.8s" begin="0.5s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="1.8s" begin="0.5s" repeatCount="indefinite"/>u</text>
+  <text class="m" x="40" fill="#085041" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.8s" begin="0.8s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="1.8s" begin="0.8s" repeatCount="indefinite"/>n</text>
+
+  <text class="m" x="66" fill="#27c93f" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.2s" begin="0.1s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="1.2s" begin="0.1s" repeatCount="indefinite"/>c</text>
+  <text class="m" x="66" fill="#1D9E75" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.2s" begin="0.35s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="1.2s" begin="0.35s" repeatCount="indefinite"/>l</text>
+  <text class="m" x="66" fill="#085041" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.2s" begin="0.6s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="1.2s" begin="0.6s" repeatCount="indefinite"/>a</text>
+
+  <text class="m" x="92" fill="#27c93f" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="2.0s" begin="0.6s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="2.0s" begin="0.6s" repeatCount="indefinite"/>s</text>
+  <text class="m" x="92" fill="#1D9E75" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="2.0s" begin="0.85s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="2.0s" begin="0.85s" repeatCount="indefinite"/>s</text>
+
+  <text class="m" x="118" fill="#27c93f" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.6s" begin="0.2s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="1.6s" begin="0.2s" repeatCount="indefinite"/>o</text>
+  <text class="m" x="118" fill="#1D9E75" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.6s" begin="0.45s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="1.6s" begin="0.45s" repeatCount="indefinite"/>b</text>
+  <text class="m" x="118" fill="#085041" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.6s" begin="0.7s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="1.6s" begin="0.7s" repeatCount="indefinite"/>j</text>
+
+  <text class="m" x="144" fill="#27c93f" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.3s" begin="0.9s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="1.3s" begin="0.9s" repeatCount="indefinite">e</text>
+  <text class="m" x="144" fill="#1D9E75" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.3s" begin="1.15s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="1.3s" begin="1.15s" repeatCount="indefinite">c</text>
+
+  <text class="m" x="170" fill="#27c93f" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.7s" begin="0.4s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="1.7s" begin="0.4s" repeatCount="indefinite">t</text>
+  <text class="m" x="170" fill="#085041" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.7s" begin="0.65s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="1.7s" begin="0.65s" repeatCount="indefinite">H</text>
+
+  <!-- RIGHT falling columns -->
+  <text class="m" x="510" fill="#27c93f" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.7s" begin="0.4s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="1.7s" begin="0.4s" repeatCount="indefinite">K</text>
+  <text class="m" x="510" fill="#1D9E75" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.7s" begin="0.65s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="1.7s" begin="0.65s" repeatCount="indefinite">o</text>
+  <text class="m" x="510" fill="#085041" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.7s" begin="0.9s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="1.7s" begin="0.9s" repeatCount="indefinite">t</text>
+
+  <text class="m" x="536" fill="#27c93f" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.5s" begin="0.15s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="1.5s" begin="0.15s" repeatCount="indefinite">l</text>
+  <text class="m" x="536" fill="#1D9E75" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.5s" begin="0.4s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="1.5s" begin="0.4s" repeatCount="indefinite">i</text>
+  <text class="m" x="536" fill="#085041" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.5s" begin="0.65s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="1.5s" begin="0.65s" repeatCount="indefinite">n</text>
+
+  <text class="m" x="562" fill="#27c93f" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.9s" begin="0.55s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="1.9s" begin="0.55s" repeatCount="indefinite">}</text>
+  <text class="m" x="562" fill="#1D9E75" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.9s" begin="0.8s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="1.9s" begin="0.8s" repeatCount="indefinite">{</text>
+
+  <text class="m" x="588" fill="#27c93f" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.1s" begin="0.05s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="1.1s" begin="0.05s" repeatCount="indefinite">=</text>
+  <text class="m" x="588" fill="#1D9E75" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.1s" begin="0.3s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="1.1s" begin="0.3s" repeatCount="indefinite">-</text>
+  <text class="m" x="588" fill="#085041" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.1s" begin="0.55s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="1.1s" begin="0.55s" repeatCount="indefinite">&gt;</text>
+
+  <text class="m" x="614" fill="#27c93f" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="2.1s" begin="0.7s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="2.1s" begin="0.7s" repeatCount="indefinite">v</text>
+  <text class="m" x="614" fill="#1D9E75" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="2.1s" begin="0.95s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="2.1s" begin="0.95s" repeatCount="indefinite">a</text>
+  <text class="m" x="614" fill="#085041" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="2.1s" begin="1.2s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="2.1s" begin="1.2s" repeatCount="indefinite">l</text>
+
+  <text class="m" x="640" fill="#27c93f" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.3s" begin="0.3s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="1.3s" begin="0.3s" repeatCount="indefinite">f</text>
+  <text class="m" x="640" fill="#1D9E75" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.3s" begin="0.55s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="1.3s" begin="0.55s" repeatCount="indefinite">u</text>
+  <text class="m" x="640" fill="#085041" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.3s" begin="0.8s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="1.3s" begin="0.8s" repeatCount="indefinite">n</text>
+
+  <text class="m" x="658" fill="#27c93f" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.6s" begin="0.1s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="1.6s" begin="0.1s" repeatCount="indefinite">c</text>
+  <text class="m" x="658" fill="#085041" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.6s" begin="0.35s" repeatCount="indefinite"/><animate attributeName="y" values="5;115" dur="1.6s" begin="0.35s" repeatCount="indefinite">)</text>
+</svg>

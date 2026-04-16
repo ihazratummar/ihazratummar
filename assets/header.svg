@@ -1,0 +1,91 @@
+<svg width="100%" viewBox="0 0 680 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .mono { font-family: 'Courier New', Courier, monospace; }
+    </style>
+  </defs>
+
+  <!-- terminal window -->
+  <rect width="680" height="180" fill="#0d1117" rx="10"/>
+  <!-- title bar -->
+  <rect x="0" y="0" width="680" height="32" fill="#161b22" rx="10"/>
+  <rect x="0" y="22" width="680" height="10" fill="#161b22"/>
+  <!-- traffic lights -->
+  <circle cx="22" cy="16" r="6" fill="#ff5f56"/>
+  <circle cx="42" cy="16" r="6" fill="#ffbd2e"/>
+  <circle cx="62" cy="16" r="6" fill="#27c93f"/>
+  <!-- title -->
+  <text x="340" y="21" text-anchor="middle" class="mono" font-size="11" fill="#484f58">ihazratummar ~ bash</text>
+
+  <!-- line 1: prompt appears at 0.3s -->
+  <text class="mono" font-size="13" fill="#1D9E75" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.05s" begin="0.3s" fill="freeze"/>
+    <tspan x="24" y="58">$</tspan>
+  </text>
+  <!-- typed: whoami -->
+  <text class="mono" font-size="13" fill="#e6edf3" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.05s" begin="0.5s" fill="freeze"/>
+    <tspan x="38" y="58"> whoami</tspan>
+  </text>
+  <!-- response line 1 -->
+  <text class="mono" font-size="13" fill="#e6edf3" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.05s" begin="0.9s" fill="freeze"/>
+    <tspan x="24" y="78">Hazrat Ummar</tspan>
+    <tspan fill="#484f58"> — </tspan>
+    <tspan fill="#7F52FF">Android Developer</tspan>
+    <tspan fill="#484f58"> @ West Bengal, India</tspan>
+  </text>
+
+  <!-- line 2: prompt -->
+  <text class="mono" font-size="13" fill="#1D9E75" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.05s" begin="1.4s" fill="freeze"/>
+    <tspan x="24" y="100">$</tspan>
+  </text>
+  <text class="mono" font-size="13" fill="#e6edf3" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.05s" begin="1.6s" fill="freeze"/>
+    <tspan x="38" y="100"> cat skills.kt</tspan>
+  </text>
+  <text class="mono" font-size="13" fill="#e6edf3" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.05s" begin="2.0s" fill="freeze"/>
+    <tspan x="24" y="120">
+      <tspan fill="#7F52FF">val</tspan>
+      <tspan fill="#e6edf3"> stack </tspan>
+      <tspan fill="#484f58">= </tspan>
+      <tspan fill="#1D9E75">listOf</tspan>
+      <tspan fill="#e6edf3">(</tspan>
+      <tspan fill="#a5d6ff">"Kotlin"</tspan>
+      <tspan fill="#e6edf3">, </tspan>
+      <tspan fill="#a5d6ff">"Compose"</tspan>
+      <tspan fill="#e6edf3">, </tspan>
+      <tspan fill="#a5d6ff">"Python"</tspan>
+      <tspan fill="#e6edf3">, </tspan>
+      <tspan fill="#a5d6ff">"Android"</tspan>
+      <tspan fill="#e6edf3">)</tspan>
+    </tspan>
+  </text>
+
+  <!-- line 3: prompt -->
+  <text class="mono" font-size="13" fill="#1D9E75" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.05s" begin="2.6s" fill="freeze"/>
+    <tspan x="24" y="142">$</tspan>
+  </text>
+  <text class="mono" font-size="13" fill="#e6edf3" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.05s" begin="2.8s" fill="freeze"/>
+    <tspan x="38" y="142"> echo $STATUS</tspan>
+  </text>
+  <text class="mono" font-size="13" fill="#e6edf3" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.05s" begin="3.2s" fill="freeze"/>
+    <tspan x="24" y="162">
+      <tspan fill="#27c93f">●</tspan>
+      <tspan fill="#e6edf3">  Open to work  </tspan>
+      <tspan fill="#484f58">|  </tspan>
+      <tspan fill="#1D9E75">building cool things daily</tspan>
+    </tspan>
+  </text>
+
+  <!-- blinking cursor -->
+  <rect x="24" y="148" width="8" height="14" fill="#1D9E75" opacity="0">
+    <animate attributeName="opacity" values="0;0;0;0;0;0;0;1;1;0;1;0;1;0;1;1;1;0" dur="4s" begin="3.4s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0;1;0" dur="1s" begin="3.8s" repeatCount="indefinite"/>
+  </rect>
+</svg>
